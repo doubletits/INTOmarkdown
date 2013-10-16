@@ -2,22 +2,26 @@
 
 * Anton Marino Stefansson
 * Hronn Robertsdottir
+
 ## 1. Linux uppsetning
 
 Við byrjuðum á því að sækja Virtual Box og downloaduðum við torrenti af síðunni http://virtualboxes.org/images/ubuntu/#ubuntu1304 og settum svo upp Ubuntu 13.04 sem virtual vél í tölvunum okkar. Þetta process var frekar auðvelt
+![ubuntu] (https://raw.github.com/doubletits/INTOmarkdown/master/ubuntu.png)
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Það gekk mjög vel. Við notuðum bara sudo apt-get install og svo nafnið á forritunum.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Með því að fara eftir leiðbeiningunum gekk það mjög vel.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+https://github.com/doubletits/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+* vim, Charityware, http://www.vim.org/sources.php
+* git, GNU General Public License, https://github.com/git/git
+* firefox, mpl, https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Mercurial
 
 ## 5. Unnið með Git (2. hluti)
 
