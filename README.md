@@ -1,11 +1,10 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
-
+* Anton Marino Stefansson
+* Hronn Robertsdottir
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
-
+Við byrjuðum á því að sækja Virtual Box og downloaduðum við torrenti af síðunni http://virtualboxes.org/images/ubuntu/#ubuntu1304 og settum svo upp Ubuntu 13.04 sem virtual vél í tölvunum okkar. Þetta process var frekar auðvelt
 ## 2. Uppsetning á vim && git
 
 Lýsið hvernig gekk að setja upp þessi tól.
